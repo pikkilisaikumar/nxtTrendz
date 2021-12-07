@@ -5,21 +5,7 @@
   margin-top: 24px;
   flex-wrap: wrap;
 }
-.searchboxcontainer {
-  background-color: #f1f5f9;
-  padding-right: 10px;
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-.searchInput {
-  outline: None;
-  padding-left: 10px;
-  background-color: #f1f5f9;
-  border-width: 0px;
-  padding-top: 10px;
-  padding-bottom: 10px;
-}
+
 @media screen and (min-width: 768px) {
   .products-header {
     margin-top: 32px;
